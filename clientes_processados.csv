@@ -1,0 +1,7 @@
+id,nome,conta,saldo,categoria,mensagem,data_processamento
+1,João Silva,001-234,15000.5,Premium,"Olá João! Como cliente Premium da A&Z, você tem acesso exclusivo a nossos produtos especiais. Aproveite 20% de desconto em toda linha!",2026-01-13 03:13:31
+2,Maria Santos,001-235,8500.75,Gold,Olá Maria! Sua fidelidade é importante para nós! Confira nossas ofertas Gold com 15% de desconto.,2026-01-13 03:13:31
+3,Pedro Oliveira,001-236,3200.0,Silver,Olá Pedro! Temos novidades especiais para você! Aproveite 10% de desconto em nossos sucos.,2026-01-13 03:13:31
+4,Ana Costa,001-237,12000.0,Premium,"Olá Ana! Como cliente Premium da A&Z, você tem acesso exclusivo a nossos produtos especiais. Aproveite 20% de desconto em toda linha!",2026-01-13 03:13:31
+5,Carlos Souza,001-238,450.25,Bronze,Olá Carlos! Que tal experimentar nossos novos sabores? Ganhe 5% de desconto na primeira compra!,2026-01-13 03:13:31
+6,Juliana Lima,001-239,6800.9,Gold,Olá Juliana! Sua fidelidade é importante para nós! Confira nossas ofertas Gold com 15% de desconto.,2026-01-13 03:13:31
